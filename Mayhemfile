@@ -1,0 +1,5 @@
+project: libxdc 
+target: libxdc.so 
+
+cmds:
+  - cmd: ./run_libfuzzer.sh 
